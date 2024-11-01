@@ -1,0 +1,6 @@
+projectKey=lab_8
+serverUrl=http://localhost:9000
+serverVersion=9.9.4.87374
+dashboardUrl=http://localhost:9000/dashboard?id=lab_8
+ceTaskId=AY8Gym_FXJecR1yp931X
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY8Gym_FXJecR1yp931X
